@@ -1,0 +1,15 @@
+/* TODO */
+button {
+    background-color: rgb(174, 214, 247);
+    padding: 30px;
+    font-size: 40px ; 
+    margin: 40px; 
+    border: 15px solid rgb(159, 181, 231);
+    border-radius: 40px ;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+button:hover {
+    background-color: rgb(154, 153, 245);
+    border: 15px solid rgb(136, 113, 227);
+}
